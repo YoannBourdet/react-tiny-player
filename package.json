@@ -1,0 +1,8 @@
+{
+  "name": "react-tiny-player",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YoannBourdet/react-tiny-player.git",
+  "author": "Yoann Bourdet <yoannbourdet@gmail.com>",
+  "license": "MIT"
+}
