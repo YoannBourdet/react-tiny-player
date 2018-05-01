@@ -1,0 +1,7 @@
+.tiny-player-container {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  border: 1px solid grey;
+  border-radius: 50px;
+}
